@@ -19,10 +19,16 @@ body {
 h1 {
     font-family: 'Courier New', Courier, monospace;
      font-size: 32pt;
-     color: #634258;
 }
 
 a {
     display: block;
 }
 
+#final { 
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 10pt; 
+    color: #005689; 
+    background-color: #d5eeff; 
+    padding: 10px; 
+} 
