@@ -1,0 +1,28 @@
+body {
+    background-color: #93e4c1;
+
+}
+
+#contenedor {  
+    border: 2px solid #3baea0; 
+    padding: 20px; 
+    background-color: #53a8b6; 
+} 
+ 
+#menu { 
+    color: #005689; 
+    background-color: #118a7e; 
+    padding: 10px; 
+    border: 1px solid #1f6f78; 
+} 
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+     font-size: 32pt;
+     color: #634258;
+}
+
+a {
+    display: block;
+}
+
